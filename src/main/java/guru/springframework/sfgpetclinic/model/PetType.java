@@ -3,6 +3,7 @@ package guru.springframework.sfgpetclinic.model;
 public class PetType {
 
     private String name;
+    private String oldname;
 
     public String getName() {
         return name;
